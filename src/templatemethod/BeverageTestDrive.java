@@ -11,7 +11,7 @@ public class BeverageTestDrive {
  
 		System.out.println("\nMaking coffee...");
 		coffee.prepareRecipe();
-/*
+
 		TeaWithHook teaHook = new TeaWithHook();
 		CoffeeWithHook coffeeHook = new CoffeeWithHook();
  
@@ -20,6 +20,6 @@ public class BeverageTestDrive {
  
 		System.out.println("\nMaking coffee...");
 		coffeeHook.prepareRecipe();
-		*/
+		
 	}
 }
