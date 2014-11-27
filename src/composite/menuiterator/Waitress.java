@@ -25,6 +25,7 @@ public class Waitress {
 					menuComponent.print();
 				}
 			} catch (UnsupportedOperationException e) {
+				//isVegetarian 是Menu没有支持的操作，注意这里的处理技巧
 			}
 		}
 	}
